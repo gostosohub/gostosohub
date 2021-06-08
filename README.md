@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gostosohub
+- 👋 Hi, I’m Sonali
 - 👀 I’m interested in learning software testing
-- 🌱 I’m currently learning cypress, javascript and java
+- 🌱 I’m currently learning tools like cypress, javascript and java
 - 💞️ I’m looking to collaborate on automation project
 - 📫 How to reach me ...
 
