@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sonali
 - 👀 I’m interested in software testing and clean code practices
-- 🌱 I’m currently experimenting using cypress, javascript and java
 - 💞️ I’m looking to collaborate on automation project
 
 <!---
